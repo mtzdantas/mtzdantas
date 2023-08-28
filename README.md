@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/name.svg" alt="Mateus Dantas" />
 </h1>
 
+<p align="center"> Student of Information Systems at <a href="https://www.ufrn.br">Universidade Federal do Rio Grande do Norte</a>.</p>
+  
 &nbsp;
 ## Skills
 
