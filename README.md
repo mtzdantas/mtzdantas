@@ -2,13 +2,10 @@
   <img src="https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/name.svg" alt="Mateus Dantas" />
 </h1>
 
-
 &nbsp;
-### Skills
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtzdantas&theme=radical" min-width="330px" max-width="330px" width="330px" align="right">
-
+## Skills
 #### Studying in this moment:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtzdantas&theme=radical" width="300px" align="right">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -20,7 +17,7 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 &nbsp;
 
-### Contacts:
+## Contacts:
 
 <div> 
 <a href="https://www.instagram.com/mateusdantass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
