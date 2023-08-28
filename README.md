@@ -1,4 +1,7 @@
-## <p align="center">Hello world, I'm Mateus!</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/name.svg" alt="Mateus Dantas" />
+</h1>
+
 
 &nbsp;
 ### Skills
