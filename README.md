@@ -14,3 +14,5 @@
 
 #### This week I coded with
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mtzdantas&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=8A2BE2)
+
+---
