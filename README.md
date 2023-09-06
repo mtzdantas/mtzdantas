@@ -13,6 +13,12 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>&nbsp;
 
 #### This week I coded with
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mtzdantas&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=8A2BE2)
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ---
