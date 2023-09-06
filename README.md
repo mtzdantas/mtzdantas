@@ -12,9 +12,8 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="30px"></a>&nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>&nbsp;
 
-#### This week I coded with
+#### I worked this week
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mtzdantas&hide_title=true&hide_border=true&langs_count=3&time_range=last_7_days&bg_color=00000000&text_color=8A2BE2)
 
 ---
