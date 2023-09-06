@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: mtzdantas/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.waka_72726d06-daab-4a65-8f24-36fd8d163e13 }} # required
+          WAKATIME_API_KEY: ${{ secrets.SECRET_NAME }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           ### content
@@ -27,12 +27,11 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
+          COMMIT_MESSAGE: Updated waka-readme graph with new # opmetrics tional
+          TARGET_BRANCH: NOT_SET # optional
+          TARGET_PATH: NOT_SET # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Mateus Dantas de Oliveira # optional
+          AUTHOR_NAME: MateusDantasdeOliveira # optional
           AUTHOR_EMAIL: mateus_dantass@hotmail.com # optional
