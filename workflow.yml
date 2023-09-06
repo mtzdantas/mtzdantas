@@ -14,3 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.waka_72726d06-daab-4a65-8f24-36fd8d163e13 }}
           GH_TOKEN: ${{ secrets.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 }}
+          SHOW_LANGUAGE: "True"
