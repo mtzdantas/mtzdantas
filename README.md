@@ -13,6 +13,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>&nbsp;
 
 #### This week I coded with
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
