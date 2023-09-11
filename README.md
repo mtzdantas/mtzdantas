@@ -10,7 +10,7 @@
 </table>
 <table>  
     <td>
-      <img height='150' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtzdantas&layout=compact&theme=react'>
+      <img height='150' src="https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/graph.svg" alt="Stats">
     </td>
 </table> 
 
