@@ -16,6 +16,10 @@
 </table> 
 Tenho 18 anos e sou estudante do curso de Sistemas de Informação da Universidade Federal do Rio Grande do Norte. Sou iniciante nos estudos de programação e atualmente, meu objetivo é adquirir mais conhecimento nessa área para trabalhar naquilo que eu quero.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 
