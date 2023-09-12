@@ -4,15 +4,16 @@
 </h2>
 <table align="right">
     <td>
-      <img height='127' src='https://github-readme-stats.vercel.app/api/wakatime?username=mtzdantas&hide_title=true&hide_border=true&langs_count=5&theme=react'>
+      <img height='120' src='https://github-readme-stats.vercel.app/api/wakatime?username=mtzdantas&hide_title=true&hide_border=true&langs_count=5&theme=react'>
     </td>
 </table>
+
 <table align="right">  
     <td>
-      <img height='150' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtzdantas&layout=compact&theme=react'>
+      <img height='120' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtzdantas&layout=compact&theme=react'>
     </td>
 </table> 
-Tenho 18 anos e sou estudante do curso de Sistemas de Informação da Universidade Federal do Rio Grande do Norte. Sou iniciante nos estudos de programação e estou aprendendo cada dia mais. Atualmente, meu objetivo é adquirir mais conhecimento nessa área para trabalhar naquilo que eu quero.
+Tenho 18 anos e sou estudante do curso de Sistemas de Informação da Universidade Federal do Rio Grande do Norte. Sou iniciante nos estudos de programação e atualmente, meu objetivo é adquirir mais conhecimento nessa área para trabalhar naquilo que eu quero.
 
 
 
