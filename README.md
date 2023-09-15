@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-<h5 align="left">
+<h4 align="left">
 Tenho 18 anos e sou estudante do curso de Sistemas de Informação da Universidade Federal do Rio Grande do Norte. Sou iniciante nos estudos de programação e atualmente, meu objetivo é adquirir mais conhecimento nessa área para trabalhar naquilo que eu quero.
 </h5>
 
