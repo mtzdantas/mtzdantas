@@ -6,13 +6,12 @@
 <table align="right">
   <tr>
     <td>
-      <img height='125' src='https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only' >
-      <img height='125' src='https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only'>
+      <img height='135' src='https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/images/wakatime_weekly_language_stats.svg'>
     </td>
   </tr>
   <tr>
     <td>
-      <img height='125' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtzdantas&layout=compact&theme=react'>  
+      <img height='135' src='https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/images/wakatime_weekly_project_stats.svg'>  
     </td>
   </tr>
 </table>
