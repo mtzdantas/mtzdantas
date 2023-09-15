@@ -20,7 +20,7 @@ Tenho 18 anos e sou estudante do curso de Sistemas de Informação da Universida
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+<img height='125' src='https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/images/wakatime_weekly_language_stats.svg'>
 
 
 
