@@ -26,3 +26,5 @@ Tenho 18 anos e sou estudante do curso de Sistemas de Informação na Universida
 </h5>
 &nbsp;
 <img width="45%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+---
