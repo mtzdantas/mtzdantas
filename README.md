@@ -6,12 +6,12 @@
 <table align="right">
   <tr>
     <td>
-      <img height='135' src='https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/images/wakatime_weekly_language_stats.svg'>
+      
     </td>
   </tr>
   <tr>
     <td>
-      <img height='135' src='https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/images/wakatime_weekly_project_stats.svg'>  
+       
     </td>
   </tr>
 </table>
