@@ -23,7 +23,7 @@
 
 <h4 align="left">
 Tenho 18 anos e sou estudante do curso de Sistemas de Informação na Universidade Federal do Rio Grande do Norte. Sou iniciante nos estudos de programação e atualmente, meu objetivo é adquirir mais conhecimento na área para se tornar um bom desenvolvedor.
-</h5>
+</h4>
 &nbsp;
 <img width="45%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
