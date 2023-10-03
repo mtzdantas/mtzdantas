@@ -19,6 +19,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mateusdantass)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mateus.dantass460@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mateus_dantass@hotmail.com)
+[![wakatime](https://wakatime.com/badge/user/3abe84e9-4f9b-47b7-a8b6-2b2f364b4893.svg)](https://wakatime.com/@3abe84e9-4f9b-47b7-a8b6-2b2f364b4893)
 
 Tenho 18 anos e sou estudante do curso de Sistemas de Informação na Universidade Federal do Rio Grande do Norte. Sou iniciante nos estudos de programação e atualmente, meu objetivo é adquirir mais conhecimento na área para se tornar um bom desenvolvedor.
   
