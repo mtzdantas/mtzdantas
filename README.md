@@ -19,5 +19,3 @@ na área para se tornar um bom desenvolvedor.
     </td>
   </tr>
 </table>
-
----
