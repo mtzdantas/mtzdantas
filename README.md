@@ -7,10 +7,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mateus.dantass460@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mateus_dantass@hotmail.com)
 
-Tenho 18 anos e sou estudante do curso de Sistemas de Informação na<br>
-Universidade Federal do Rio Grande do Norte. Meu atual objetivo é adquirir<br> 
-mais conhecimento na área para se tornar um bom desenvolvedor.
-
 <table>
   <tr>
     <td>
