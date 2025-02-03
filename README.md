@@ -12,7 +12,7 @@
   
 </div>
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWprOGI5Z3gzeDF2ZG15bTk5YXc5bjB1OTliN3Y1NjFlbzd0eWRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3PqeqVoo248xgxq3p1/giphy.gif" alt="Technologies" width="40"> About me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWprOGI5Z3gzeDF2ZG15bTk5YXc5bjB1OTliN3Y1NjFlbzd0eWRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3PqeqVoo248xgxq3p1/giphy.gif" alt="Technologies" width="40"> About me
 
 ```python
 mateus = {
@@ -28,7 +28,7 @@ mateus = {
 }
 ```
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FkOWMwc2JnazdqamhkM2NmcmpzeXVrbnlvdW1uY2d4eHpsdm9lNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AgQA13YwynqfxyiLAa/giphy.gif" alt="Technologies" width="40"> See my portfolio
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FkOWMwc2JnazdqamhkM2NmcmpzeXVrbnlvdW1uY2d4eHpsdm9lNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AgQA13YwynqfxyiLAa/giphy.gif" alt="Technologies" width="40"> See my portfolio
 
 <a href="https://github.com/mtzdantas/portfolio" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtzdantas&repo=portfolio&theme=tokyonight">
