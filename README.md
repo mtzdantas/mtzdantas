@@ -22,7 +22,7 @@ mateus = {
     "personal": {
         "academic": "Information Systems student at UFRN",
         "tags": ["Runner", "Gamer", "Student"],
-        "country": "Brasil"
+        "country": "Brasil",
         "birth": "17/01/2005",
     },
 }
