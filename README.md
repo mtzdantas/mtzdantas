@@ -23,7 +23,7 @@ mateus = {
         "academic": "Information Systems student at UFRN",
         "tags": ["Runner", "Gamer", "Student"],
         "country": "Brasil",
-        "birth": "17/01/2005",
+        "goal": "Learn more about Data Science this year",
     },
 }
 ```
