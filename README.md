@@ -5,7 +5,7 @@
 </h1>
 
 <a href="https://github.com/mtzdantas/portfolio" target="_blank">
-  <img width="340" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mtzdantas&repo=portfolio&theme=tokyonight">
+  <img width="360" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mtzdantas&repo=portfolio&theme=tokyonight">
 </a>
 
 <p><em>Information Systems student at <a href="https://www.ufrn.br/">UFRN</a>.<br>Fascinated by Analysis and Data Science and technologies in general.</em></p>
