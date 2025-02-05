@@ -1,7 +1,6 @@
 <h1>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21sa3UzbnJwbGVtbnVubHEyb3l6aHg5ZHR1MXNmNmhqMWJtdGZ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hhut7D136GMQU/giphy.gif" alt="Stitch" width="70">
   <img src="https://raw.githubusercontent.com/mtzdantas/mtzdantas/master/name.svg" alt="Mateus Dantas">
-  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FkOWMwc2JnazdqamhkM2NmcmpzeXVrbnlvdW1uY2d4eHpsdm9lNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AgQA13YwynqfxyiLAa/giphy.gif" alt="Technologies" width="40"> 
 </h1>
 
 <a href="https://github.com/mtzdantas/portfolio" target="_blank">
@@ -16,7 +15,7 @@
 [![GitHub](https://img.shields.io/github/followers/mtzdantas?label=follow&style=social)](https://github.com/mtzdantas)
 
 <h2>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWprOGI5Z3gzeDF2ZG15bTk5YXc5bjB1OTliN3Y1NjFlbzd0eWRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3PqeqVoo248xgxq3p1/giphy.gif" alt="Technologies" width="40">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWprOGI5Z3gzeDF2ZG15bTk5YXc5bjB1OTliN3Y1NjFlbzd0eWRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3PqeqVoo248xgxq3p1/giphy.gif" alt="Pug" width="40">
   About me 
 </h2>
 
